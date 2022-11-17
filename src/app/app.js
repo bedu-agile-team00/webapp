@@ -1,5 +1,5 @@
-var port = 80;
-var hostname = "localhost";
+const hostname = "localhost://";
+const port = "800";
 
 const server = http.createServer((req, res) => {
     res.statusCode = 200

@@ -2,7 +2,7 @@
     "name": "myapp",
     "version": "1.0.0",
     "description": "Node.js on Docker",
-    "author": "88randy <randy88allan@gmail.com>",
+    "author": "Yo rch <yo.rc@example.com>",
     "main": "app.js",
     "scripts": {
       "start": "node app.js"
